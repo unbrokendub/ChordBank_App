@@ -12,7 +12,7 @@ import SwiftUI
 
 @main
 struct ChordBankApp: App {
-    //@State private var appId = "6470079737"
+  
 
     
     
